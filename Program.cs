@@ -1,0 +1,11 @@
+﻿Console.WriteLine("'Cê já tem a solidão de volta");
+Console.WriteLine("Não precisa mais se explicar");
+Console.WriteLine("Onde vai a ninguém mais importa");
+Console.WriteLine();
+Console.WriteLine("Onde vai agora?");
+Console.WriteLine();
+Console.WriteLine("Ouve-se que um belo horizonte");
+Console.WriteLine("Daqui de longe, não posso fazer nada");
+Console.WriteLine("Mas certamente, certamente");
+Console.WriteLine("Respirar");
+Console.WriteLine("Só tem um jeito");
